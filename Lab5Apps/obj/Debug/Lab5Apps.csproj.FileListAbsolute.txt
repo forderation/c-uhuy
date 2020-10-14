@@ -1,0 +1,6 @@
+C:\Users\forderation\RiderProjects\Lab5Apps\Lab5Apps\bin\Debug\Lab5Apps.exe
+C:\Users\forderation\RiderProjects\Lab5Apps\Lab5Apps\bin\Debug\Lab5Apps.pdb
+C:\Users\forderation\RiderProjects\Lab5Apps\Lab5Apps\obj\Debug\Lab5Apps.csprojAssemblyReference.cache
+C:\Users\forderation\RiderProjects\Lab5Apps\Lab5Apps\obj\Debug\Lab5Apps.csproj.CoreCompileInputs.cache
+C:\Users\forderation\RiderProjects\Lab5Apps\Lab5Apps\obj\Debug\Lab5Apps.exe
+C:\Users\forderation\RiderProjects\Lab5Apps\Lab5Apps\obj\Debug\Lab5Apps.pdb
